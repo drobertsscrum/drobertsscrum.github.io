@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Delta Sigma Theta, Texas Master Gardener
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Diane_Roberts_Headshot_2025.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>dianer@smu.edu</p>
