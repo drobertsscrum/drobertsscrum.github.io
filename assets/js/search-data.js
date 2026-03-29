@@ -496,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-attrition",
+          title: 'Attrition',
+          description: "Attrition study for Frito Lay",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DS6306-DRoberts_Case_Study_1/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
