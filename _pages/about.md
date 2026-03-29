@@ -28,5 +28,6 @@ latest_posts:
 
 I am a graduate student in the MS in Data Science program, seeking to deepen my technical expertise in data analysis and statistical methods. My goal is to apply these skills both to complex client use cases and to data-driven solutions that support resilient and equitable food ecosystems.
 
+In addition to my corporate leadership, I am a certified Texas Master Gardener committed to addressing food security challenges across the DFW region. My work bridges data, sustainability, and community impact, with a focus on strengthening local food systems.
 LinkedIn: https://www.linkedin.com/in/dianewroberts/
 
