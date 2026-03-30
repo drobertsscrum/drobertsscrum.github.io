@@ -9,13 +9,13 @@ profile:
   image: Diane_Roberts_Headshot_2025.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-  <p>dianer@smu.edu</p>
-  <p>Richardson, TX 75080</p>
-  <p>
-    <a href="https://www.linkedin.com/in/dianewroberts/" target="_blank">
-      <i class="fab fa-linkedin fa-lg"></i>
-    </a>
-  </p>
+    <p>dianer@smu.edu</p>
+    <p>Richardson, TX 75080</p>
+    <p>
+      <a href="https://www.linkedin.com/in/dianewroberts/" target="_blank">
+        <i class="fab fa-linkedin fa-lg"></i>
+      </a>
+    </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
